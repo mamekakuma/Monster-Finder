@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monster-Finder/static/css/main.89e4ecab.css",
+    "main.js": "/Monster-Finder/static/js/main.859d5d48.js",
+    "static/js/787.39d12d3d.chunk.js": "/Monster-Finder/static/js/787.39d12d3d.chunk.js",
+    "index.html": "/Monster-Finder/index.html",
+    "main.89e4ecab.css.map": "/Monster-Finder/static/css/main.89e4ecab.css.map",
+    "main.859d5d48.js.map": "/Monster-Finder/static/js/main.859d5d48.js.map",
+    "787.39d12d3d.chunk.js.map": "/Monster-Finder/static/js/787.39d12d3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e4ecab.css",
+    "static/js/main.859d5d48.js"
+  ]
+}
