@@ -26,6 +26,7 @@ class App extends Component {
       monster => monster.name.toLowerCase().includes(searchField.toLowerCase())
     )
     return <div className="App">
+      <h1>Monster Finder</h1>
       <SearchBox
         placeholder="Search monster"
         handleChange={this.handleChange }
